@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Area Calculator</string>
+    <string name="edit_text_radius">Enter Radius</string>
+    <string name="calculate_action_button">Calculate</string>
+</resources>
